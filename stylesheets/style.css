@@ -1,0 +1,43 @@
+/* line 1, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+.navbar-inner .container-fluid {
+  padding-left: 50px; }
+
+/* line 5, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+.main-content {
+  margin: 60px auto;
+  max-width: 1200px; }
+
+/* line 10, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+.intro {
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #eeeeee;
+  text-align: center;
+  padding: 30px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px; }
+  /* line 20, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+  .intro img {
+    margin-bottom: 20px; }
+
+/* line 25, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+.news, .contacts, .category {
+  margin: 80px auto;
+  text-align: center; }
+  /* line 28, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+  .news img, .contacts img, .category img {
+    margin-bottom: 10px; }
+  /* line 32, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+  .news iframe, .contacts iframe, .category iframe {
+    display: block;
+    margin: 0 auto; }
+
+/* line 38, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+.address {
+  margin-top: 40px; }
+
+/* line 42, /Users/syd/project/jason/source/stylesheets/style.css.scss */
+article {
+  font-size: 18px;
+  line-height: 28px; }
